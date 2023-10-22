@@ -4,9 +4,9 @@ using ConsoleApp1;
 
 try
 {
-    const string InputPath = "C:\\Users\\45ksu\\Desktop\\ООП\\ДЗ6\\input.json";
+    const string InputPath = "C:\\Users\\45ksu\\Desktop\\ООП\\ДЗ6\\ConsoleApp1\\output.json";
 
-    const string OutputPath = "C:\\Users\\45ksu\\Desktop\\ООП\\ДЗ6\\output.json";
+    const string OutputPath = "C:\\Users\\45ksu\\Desktop\\ООП\\ДЗ6\\ConsoleApp1\\inpput.json";
 
     FileStream fs = new FileStream(InputPath, FileMode.OpenOrCreate);
 
