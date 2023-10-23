@@ -13,9 +13,9 @@ namespace ConsoleApp1
         public int PublishingHouseId { get; set; }
 
         [JsonPropertyName("Name")]
-        public string Title { get; }
+        public string? Title { get; }
 
-        public PublishingHouse PublishingHouse { get; set; }
+        public PublishingHouse? PublishingHouse { get; set; }
     }
 
 }

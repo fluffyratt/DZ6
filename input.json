@@ -4,7 +4,7 @@
     "Title": "Підручник. Алгебра 8",
     "PublishingHouse": {
       "Id": 2,
-      "Name": "ГІМНАЗІЯ",
+      "Name": "ГIМНАЗIЯ",
       "Adress": "Адреса 2"
     }
   },
@@ -22,7 +22,7 @@
     "Title": "Посібник. Алгебра 9",
     "PublishingHouse": {
       "Id": 2,
-      "Name": "ГІМНАЗІЯ",
+      "Name": "ГIМНАЗIЯ",
       "Adress": "Адреса 2"
     }
   }
